@@ -1,5 +1,5 @@
 # Article
-Please refer to https://tech.kakaopay.com/r2dbc-connection-pool-missing
+Please refer to https://tech.kakaopay.com/post/r2dbc-connection-pool-missing/
 
 # Quick Start
 
